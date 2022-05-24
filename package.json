@@ -1,0 +1,23 @@
+{
+  "name": "what-the-flex-box-joshua-wilson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaLeroy88/what-the-flex-box-joshua-wilson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaLeroy88/what-the-flex-box-joshua-wilson/issues"
+  },
+  "homepage": "https://github.com/JoshuaLeroy88/what-the-flex-box-joshua-wilson#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0"
+  }
+}
